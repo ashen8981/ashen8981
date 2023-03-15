@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A third-year IT diplomat at the Institute of Technology, University of Moratuwa (NDT).<br>👯 I’m looking to collaborate on full-stack development.<br>🌱 I’m currently learning some frameworks and languages.
+🔭 A third-year IT diplomat at the Institute of Technology, University of Moratuwa (NDT).<br>👯 I’m looking to collaborate on full-stack development.<br>🌱 I’m currently learning some frameworks and languages..<br>👯 my articles :  https://flutter51.wordpress.com/
 
 
 ## 🌐 Socials:
