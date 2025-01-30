@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 A Software Engineer studied at the Institute of Technology, University of Moratuwa (NDT).<br>👯 I’m looking to collaborate on full-stack development.<br>🌱 I’m currently learning some frameworks and languages..<br>👯 my articles :  https://flutter51.wordpress.com/
+🔭 A Software Engineer studied at the Institute of Technology, University of Moratuwa (NDT).<br>👯 I’m looking to collaborate on full-stack development.<br>🌱 I’m currently learning some frameworks and languages..<br>👯 my articles :  https://flutter51.wordpress.com/ <br> [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://ashenmalindu.vercel.app/)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashen8981&icon=0&color=1)](https://visitcount.itsvg.in)
