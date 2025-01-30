@@ -5,8 +5,8 @@
 [![](https://visitcount.itsvg.in/api?id=ashen8981&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/malindu.ashen) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashen-malindu-a07613208/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/malindu.ashen) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashen-malindu-a07613208/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ashen_malindu)
 
 
