@@ -4,6 +4,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashen8981&icon=0&color=1)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=ashen8981&color=blue&style=flat-square)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/malindu.ashen) 
